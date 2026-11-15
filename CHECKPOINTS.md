@@ -1,7 +1,6 @@
 # Checkpoint evidence - The Little Light
 
 Project: 5 minute animated short built from scratch in C++ (pure C++ rasteriser + OpenGL).
-GitHub link: <paste your repository URL here after pushing this folder>
 
 ## CP1 - Technical foundation (pure C++)  -  `cp1_raster.h`
 **What are we building?** A film made only of primitives: Lumi, the creatures, the city and the tree.
@@ -36,7 +35,7 @@ GitHub link: <paste your repository URL here after pushing this folder>
 - Emotion without dialogue: eyes, trembling, hesitation, brightness and camera work
 - Playback is deterministic: every frame is a pure function of time, so seeking and video export are exact
 **Known limitations / recommendations**
-- No soundtrack is generated (the storyline suggests soft piano building to orchestra); add music in a video editor
+- No soundtrack is generated 
 - The OpenGL back-end uses the legacy fixed pipeline for simplicity; a shader version would be the next step
 - The software renderer takes about 40 ms per frame (fine for export, slightly below real time for 60 fps)
 
