@@ -15,6 +15,8 @@
 #include <io.h>
 #endif
 #ifndef NO_WINDOW
+// Requires GLFW (GLFW/glfw3.h) and OpenGL. If GLFW isn't installed,
+// build with -DNO_WINDOW to use only the software renderer (--shot / --video).
 #include "cp3_opengl.h"
 #endif
 
