@@ -105,29 +105,13 @@ little_light/
 
 ## Screenshots
 
-| ![](screenshots/t12.png)
-<img width="1278" height="723" alt="image" src="https://github.com/user-attachments/assets/b9e0d20e-b122-4382-8852-26054bb7f4d9" />
-| ![](screenshots/t95.png) |
-<img width="1280" height="720" alt="t95" src="https://github.com/user-attachments/assets/81282d19-bbec-434a-9bf3-7a65d44f4e59" />
+| ![](screenshots/t12.png)| ![](screenshots/t95.png) |
 
-| ![](screenshots/t148.png) |
-<img width="1280" height="720" alt="t148" src="https://github.com/user-attachments/assets/67f46440-3a65-41f1-a95f-eb14087940aa" />
+| ![](screenshots/t148.png) |![](screenshots/t168.png) |
 
-![](screenshots/t168.png) |
-<img width="1280" height="720" alt="t168" src="https://github.com/user-attachments/assets/d476f0f7-e73c-4b7b-a5f4-67b33c4b24ea" />
+| ![](screenshots/t220.png) | ![](screenshots/t270.png) |
 
-| ![](screenshots/t220.png) | 
-<img width="1280" height="720" alt="t220" src="https://github.com/user-attachments/assets/9edff32c-52e9-4ad1-a99b-584c8b9e7a42" />
-
-![](screenshots/t270.png) |
-
-<img width="1280" height="720" alt="t270" src="https://github.com/user-attachments/assets/37994725-b1f3-4695-aaf8-7a428a665653" />
-
-| ![](screenshots/t289.png) | 
-<img width="1280" height="720" alt="t289" src="https://github.com/user-attachments/assets/8c9d830b-9673-4051-a682-ea3d45fd05fc" />
-
-![](screenshots/t299.png) |
-<img width="1280" height="720" alt="t299" src="https://github.com/user-attachments/assets/027eebf6-4137-4c4a-9e67-36463469d556" />
+| ![](screenshots/t289.png) | ![](screenshots/t299.png) |
 
 
 ## What works and known limitations
