@@ -45,20 +45,6 @@ g++ -std=c++17 -O2 main.cpp -o little_light.exe -lglfw3 -lopengl32 -lgdi32
 ./little_light.exe
 ```
 
-**Linux**
-```bash
-sudo apt install g++ libglfw3-dev libgl1-mesa-dev
-g++ -std=c++17 -O2 main.cpp -o little_light -lglfw -lGL
-./little_light
-```
-
-**macOS**
-```bash
-brew install glfw
-g++ -std=c++17 -O2 main.cpp -o little_light -lglfw -framework OpenGL
-./little_light
-```
-
 **CMake (any platform):** `cmake -S . -B build && cmake --build build`
 
 **Pure C++ only (no OpenGL, no libraries):**
