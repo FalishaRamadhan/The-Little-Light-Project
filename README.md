@@ -10,7 +10,7 @@ No images, models or game engine were used: every shape, light and movement is d
 
 In a world swallowed by darkness, Lumi, a tiny glowing creature, shares its light with everyone it meets: a lost
 creature, an old robot, a trapped bird, a wilting plant and a frightened child. Each act of kindness makes Lumi dimmer.
-In a dark square, Lumi gives away its very last light. Then everyone it helped returns, each carrying a tiny
+In a dark square, Lumi gives away its very last light. Then everyone it gave light to returns, each carrying a tiny
 light, and together they bring Lumi back and light up the whole city.
 
 **Genre:** drama / fantasy · **Duration:** 5 minutes · **Style:** 2D lit animation · **Dialogue:** none
