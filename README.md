@@ -16,7 +16,7 @@ light, and together they bring Lumi back and light up the whole city.
 **Genre:** drama / fantasy · **Duration:** 5 minutes · **Style:** 2D lit animation · **Dialogue:** none
 
 
-## Graphics concepts used
+## Concepts used
 
 | Stage | Concepts |
 |---|---|
